@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**ak0586/ak0586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Ankit
 
-Here are some ideas to get you started:
+I’m a full-stack software engineer specializing in **mathematical information retrieval** and **intelligent LaTeX processing**. My work revolves around building systems that make mathematical content searchable, structured, and machine-readable. I’ve developed custom **embedding techniques**, **symbol-aware parsers**, and **clustering algorithms** that bridge the gap between symbolic math and modern ML workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m equally at home designing **cluster-based math retrieval engines** or crafting **real-time Flutter apps** with NestJS backends—like YouTube downloaders that stream live download progress using Server-Sent Events.
+
+Proficient in **C++**, **Python**, **Dart**, **TypeScript**, and frameworks like **Flutter** and **NestJS**, I love solving deep, technical problems and turning complexity into clarity. My code is pragmatic, clean, and driven by purpose—whether it’s a research tool or a production-ready app.
+
+Outside of work, you’ll find me exploring new places or on the cricket field.
+
+---
+
+- 🔧 **Top Skills**: C++, Python, Dart, TypeScript, Flutter, NestJS, VSCode  
+- 🚀 **Favourite Project**: Cluster-Based Mathematical Information Retrieval  
+- 🔗 **Social**: [LinkedIn](https://www.linkedin.com/in/ankit59)  
+- 🎯 **Hobbies**: Cricket, Travelling
+
+---
+
+> _"Ankit builds systems that don’t just run—they understand."_  
+> — ChatGPT, on seeing his work in mathematical retrieval retrieval.
+
