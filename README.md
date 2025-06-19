@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Ankit
 
-I’m a full-stack software engineer specializing in **mathematical information retrieval** and **intelligent LaTeX processing**. My work revolves around building systems that make mathematical content searchable, structured, and machine-readable. I’ve developed custom **embedding techniques**, **symbol-aware parsers**, and **clustering algorithms** that bridge the gap between symbolic math and modern ML workflows.
+I’m a full-stack software developer specializing in **mathematical information retrieval** and **intelligent LaTeX processing**. My work revolves around building systems that make mathematical content searchable, structured, and machine-readable. I’ve developed custom **embedding techniques**, **symbol-aware parsers**, and **clustering algorithms** that bridge the gap between symbolic math and modern ML workflows.
 
 I’m equally at home designing **cluster-based math retrieval engines** or crafting **real-time Flutter apps** with NestJS backends—like YouTube downloaders that stream live download progress using Server-Sent Events.
 
