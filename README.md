@@ -19,6 +19,4 @@ Outside of work, you’ll find me exploring new places or on the cricket field.
 
 ---
 
-> _"Ankit builds systems that don’t just run—they understand."_  
-> — ChatGPT, on seeing his work in mathematical retrieval retrieval.
 
