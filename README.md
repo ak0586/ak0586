@@ -14,7 +14,7 @@ Outside of work, you’ll find me exploring new places or on the cricket field.
 ---
 
 - 🔧 **Top Skills**: C++, Python, Dart, TypeScript, Flutter,FastAPI, NestJS, VSCode  
-- 🚀 **Favourite Project**: Cluster-Based Mathematical Information Retrieval  
+- 🚀 **Favourite Project**: BhuMitra - A Land Area Measurement App  
 - 🔗 **Social**: [LinkedIn](https://www.linkedin.com/in/ankit59)  
 - 🎯 **Hobbies**: Cricket, Travelling
 
