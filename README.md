@@ -1,23 +1,41 @@
 ## Hi there 👋
 
-### 👋 Hi, I’m Ankit
-https://ak0586.github.io/Portfolio/
+### 👋 Hi, I’m Ankit  
+🌐 **Portfolio**: https://ak0586.github.io/Portfolio/
 
-I’m a full-stack software developer specializing in **mathematical information retrieval** and **intelligent LaTeX processing**. My work revolves around building systems that make mathematical content searchable, structured, and machine-readable. I’ve developed custom **embedding techniques**, **symbol-aware parsers**, and **clustering algorithms** that bridge the gap between symbolic math and modern ML workflows.
+I’m a **Flutter-focused full-stack software developer** who builds **high-performance, real-time mobile applications** backed by scalable APIs. My core strength lies in crafting **clean, responsive Flutter UIs** and integrating them seamlessly with robust backends using **NestJS** and **FastAPI**.
 
-I’m equally at crafting **real-time Flutter apps** with NestJS backends—like YouTube downloaders that stream live download progress using Server-Sent Events and **Weather Forecast app** with OpenWeathMap API which shows real-time weather information(including **Temperature, Humidity, WindSpeed, Pressure**) of any city or village by entering in search bar.
+I’ve designed and shipped multiple **production-ready Flutter apps**, with a strong focus on **state management, API integration, real-time updates, performance optimization**, and **user-centric UI/UX**. My favourite project, **BhuMitra**, is a Flutter-based land area measurement app that replaces days of manual field work with fast, accurate, on-device calculations.
 
-Proficient in **C++**, **Python**, **Dart**, **TypeScript**, and frameworks like **Flutter** and **NestJS**, I love solving deep, technical problems and turning complexity into clarity. My code is pragmatic, clean, and driven by purpose—whether it’s a research tool or a production-ready app.
+Alongside mobile development, I have experience in **mathematical information retrieval** and **intelligent LaTeX processing**, where I’ve built **symbol-aware parsers**, **custom embedding techniques**, and **clustering algorithms**. This research background strengthens my ability to handle **complex data models, algorithms, and system design**, which directly benefits large-scale Flutter applications.
 
-Outside of work, you’ll find me exploring new places or on the cricket field.
+On the backend, I work with **NestJS** and **FastAPI** to build clean, scalable APIs. I’ve implemented features like **Server-Sent Events (SSE)** to stream real-time progress updates (e.g., live download tracking) and have built a **Flutter Weather Forecast app** using the OpenWeatherMap API that displays real-time **temperature, humidity, wind speed, and pressure** for any city or village.
 
----
+I enjoy writing **pragmatic, maintainable code** and turning complex requirements into elegant Flutter experiences—whether it’s a research-driven tool or a production-ready mobile app.
 
-- 🔧 **Top Skills**: C++, Python, Dart, TypeScript, Flutter,FastAPI, NestJS, VSCode  
-- 🚀 **Favourite Project**: BhuMitra - A Land Area Measurement App  
-- 🔗 **Social**: [LinkedIn](https://www.linkedin.com/in/ankit59)  
-- 🎯 **Hobbies**: Cricket, Travelling
+Outside of coding, you’ll find me **travelling** or playing **cricket**.
 
 ---
 
+### 🔧 Top Skills
+- **Flutter (Primary)** – responsive UI, state management, API integration, real-time updates  
+- Dart, TypeScript, Python, C++  
+- Backend: NestJS, FastAPI  
+- Firebase, REST APIs, Server-Sent Events  
+- Tools: VS Code, Git  
 
+---
+
+### 🚀 Favourite Project
+**BhuMitra** – A Flutter-based Land Area Measurement App that digitizes and accelerates real-world land measurement workflows
+
+---
+
+### 🔗 Social
+- **LinkedIn**: https://www.linkedin.com/in/ankit59  
+
+---
+
+### 🎯 Hobbies
+- Cricket  
+- Travelling  
